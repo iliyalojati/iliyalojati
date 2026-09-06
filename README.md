@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm [iliyalojati]
 
 <p align="center">
-  <img src="kZqsrpt4Zs6LMbckC8QFmQkt1LM-FRPlaE1MQ1OzXhU5RgbP6g.png" alt="Profile Banner">
+  <img src="assets/kZqsrpt4Zs6LMbckC8QFmQkt1LM-FRPlaE1MQ1OzXhU5RgbP6g.png" alt="Profile Banner">
 </p>
 
 ## 🔭 About Me
