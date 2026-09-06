@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there! I'm [Your Name]
 
-<!--
-**iliyalojati/iliyalojati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/image_gen_f6e9445e-f84c-49f1-9d08-65ab7059bec9_0.png" alt="Profile Banner">
+</p>
 
-Here are some ideas to get you started:
+## 🔭 About Me
+I am a developer and engineer with a deep passion for **embedded systems** and low-level programming. I thrive on turning complex hardware challenges into elegant, efficient software solutions. My journey is defined by a curiosity to understand how things work at the hardware level and the drive to build robust, scalable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Embedded Systems** | AVR, ESP8266 (ESP-01), STM32, Arduino |
+| **Languages** | C, C++, Assembly |
+| **Software & Tools** | CodeVisionAVR, Git, VS Code, Altium Designer |
+| **Interests** | Geometric Modeling, Wave Functions, Automation |
+
+## 🚀 Current Focus
+- **Library Development:** Currently building a comprehensive CodeVisionAVR library for WS2812 addressable LEDs, including reusable effects like rainbows.
+- **Project Work:** Actively maintaining the **ESP01-Relay-Control** project to simplify IoT-based relay management.
+- **Learning:** Exploring advanced mathematical concepts for real-world geometric tiling and visualization.
+
+## 📬 Let's Connect
+I'm always open to discussing new ideas, collaborating on embedded projects, or just geeking out about hardware.
+- Feel free to check my repositories or [add your contact/social link here].
+
+---
+*Always learning, always building.*
